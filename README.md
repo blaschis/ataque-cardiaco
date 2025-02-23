@@ -20,7 +20,7 @@ Tabagismo e Consumo de Álcool
 
 Atividade Física
 
-❓ Perguntas para os Insights
+# ❓ Perguntas para os Insights
 
 Durante a análise, exploramos as seguintes questões:
 
@@ -34,7 +34,7 @@ O consumo de álcool e o tabagismo estão fortemente associados ao risco de ataq
 
 A atividade física tem impacto na redução do risco?
 
-🔍 Insights Obtidos
+# 🔍 Insights Obtidos
 
 A partir da análise, obtivemos alguns insights importantes:
 
@@ -46,7 +46,7 @@ Pessoas sedentárias possuem maior propensão a desenvolver doenças cardíacas,
 
 Não há uma grande diferença por gênero (0.1%)
 
-⚠️ Sintomas de um Ataque Cardíaco
+# ⚠️ Sintomas de um Ataque Cardíaco
 
 Os sintomas de um ataque cardíaco podem variar, mas os mais comuns incluem:
 
