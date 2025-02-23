@@ -1,5 +1,9 @@
 # 🫀 Análise de Risco de Ataque Cardíaco
 
+<p align="center">
+  <img src="https://s2.glbimg.com/zdAsDTn1yfBDMJfSH3uASxEGaL4=/e.glbimg.com/og/ed/f/original/2022/05/30/anatomy-7192719_1920.jpg" width="800" height="300">
+</p>
+
 # 📚 Sobre o Projeto
 
 Este projeto tem como objetivo analisar fatores de risco para ataque cardíaco utilizando dados dos Estados Unidos. A análise foi realizada com Python, utilizando bibliotecas como Pandas, Seaborn e Matplotlib.
