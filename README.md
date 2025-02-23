@@ -60,7 +60,7 @@ Tontura, desmaio ou suor frio
 
 Enjoo ou vômito
 
-# Nem todas as pessoas que têm ataques cardíacos apresentam os mesmos sintomas ou a mesma gravidade dos sintomas. Algumas pessoas têm dor leve- outros têm dores mais fortes; lgumas pessoas não apresentam sintomas, enquanto para outras, o primeiro sinal pode ser uma parada cardíaca súbita. Se você ou alguém apresentar esses sintomas, procure ajuda médica imediatamente! 🚑
+ Nem todas as pessoas que têm ataques cardíacos apresentam os mesmos sintomas ou a mesma gravidade dos sintomas. Algumas pessoas têm dor leve- outros têm dores mais fortes; lgumas pessoas não apresentam sintomas, enquanto para outras, o primeiro sinal pode ser uma parada cardíaca súbita. Se você ou alguém apresentar esses sintomas, procure ajuda médica imediatamente! 🚑
 
 # ✅ Conclusão e Como Evitar um Ataque Cardíaco
 
